@@ -14,7 +14,7 @@
   "license": "ISC",
   
   "dependencies": {
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "inquirer": "^6.5.2",
     "path": "^0.12.7",
     "regex": "^0.1.1"
